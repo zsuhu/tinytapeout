@@ -9,12 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Uses AND logic gate
 
 ## How to test
 
-Explain how to use your project
-
+use button to input
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+uses LED display
